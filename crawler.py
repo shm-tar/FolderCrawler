@@ -1,7 +1,6 @@
 import os, fnmatch
 
 dirs = [f for f in os.listdir(os.getcwd())] # get all folders
-# print(dirs)
 
 pattern = "*.png"
 
