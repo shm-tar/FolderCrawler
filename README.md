@@ -1,6 +1,6 @@
 # FolderCrawler
 A script to delete all files with matching extension (`*.png`) from numerous folders inside a directory.
-### How it works
+## How it works
 Let's assume you have a following directory tree:
 ```bash
 ├── dir
