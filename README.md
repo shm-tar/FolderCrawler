@@ -4,14 +4,14 @@ A script to delete all files with matching extension (`*.png`) from numerous fol
 Let's assume you have a following directory tree:
 ```bash
 ├── dir
-│   ├── dir1
+│   ├── folder1
 │   │   ├── photo1.png
 │   │   └── file1.txt
-│   ├── dir2
+│   ├── folder2
 │   │   ├── photo2.png
 │   │   ├── photo3.png
 │   │   └── file2.txt
-│   ├── dir3
+│   ├── folder3
 │   │   ├── photo4.png
 │   │   └── file3.bin
 ...
