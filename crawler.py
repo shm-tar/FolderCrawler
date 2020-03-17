@@ -19,7 +19,7 @@ if len(deletes) == 0:
 	raise Exception(f"No files with {pattern} extension found.")
 
 for i in deletes:
-		print(i)
+	print(i)
 
 input("\nPress any key to remove files.\n")
 try:
