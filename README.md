@@ -16,4 +16,4 @@ Let's assume you have a following directory tree:
 │   │   └── file3.bin
 ...
 ```
-If you have ~1000 folders inside `dir` directory and need to delete only `*.png` files from every folder inside (all other files are left untouched), the script comes handy and saves tons of time.
+If you have ~1000 folders inside `dir` directory and need to delete only `*.png` files from every folder inside (all other files are left untouched), the script comes handy and saves tons of time. The script is placed inside `dir` aside numerous folders.
